@@ -1,4 +1,4 @@
-# cursoFlxbxAlura
+# FlexBoxCourse
 Oracle / Alura course in Front End development: CSS &amp; Flexbox
 
 All the files in this repository are part of the first CSS course given by Alura LATAM and Oracle.
